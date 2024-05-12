@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Index view
+""" The Index view
 """
 from flask import jsonify
 
